@@ -6,3 +6,4 @@ redis>=5.0.1
 cryptography>=42
 pydantic-settings>=2.2
 telethon>=1.36
+qrcode[pil]>=7.4
